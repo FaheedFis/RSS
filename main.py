@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Simple RSS Feed Reader
 """
@@ -99,4 +98,5 @@ def main():
     display_entries(feed, max_items, show_full)
 
 if __name__ == "__main__":
+
     main()
